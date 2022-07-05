@@ -1,0 +1,40 @@
+body {
+    background-color: grey;
+}
+
+.clock {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translateX(-0%) translateY(-50%);
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 7px;
+    color: aliceblue;
+}
+
+p {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+
+p1 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+
+.topcontainer{
+    background-color: #549b8c;
+    position: relative;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 2px 2px white;
+}
